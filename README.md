@@ -1,6 +1,6 @@
 # Tachyons simple_form Initializer
 
-This project contains the default intializer needed to use [simple_form][simple_form] with [tachyons][tachyons css]. It is based off of the custom wrapper in the simple_form [simple_form_wiki][wiki].
+This project contains the default intializer needed to use [simple_form][simple_form] with [tachyons css][tachyons]. It is based off of the custom wrapper in the simple_form [wiki][simple_form_wiki].
 
 In order to use this, install simple form as normal.
 
